@@ -11,6 +11,9 @@
 - ⚡ Fun fact: i love turtles , and well experienced in coding -->
 
 
+[![GitHub](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/EELKGOD)
+[![Discord](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://discord.gg/7WCa6XqzEk)
+
 <!---
 EELKGOD/EELKGOD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
