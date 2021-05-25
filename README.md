@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning more and more c# every day
 
-- 💬 Ask me about (html5, css, php, c#, c++, nodejs, python, lua)
+- 💬 Ask me about (html5, css, php, c#, c++, nodejs, javascript, python, lua)
 
 - 📫 How to reach me: through [Discord Server](https://discord.gg/7WCa6XqzEk)  
 
