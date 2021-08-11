@@ -6,9 +6,7 @@
 
 - 💬 Ask me about (html5, css, php, c#, c++, nodejs, javascript, python, lua, blueprints)
 
-- 📫 How to reach me: through [Discord Server](https://discord.gg/7WCa6XqzEk)  
-
-- ⚡ Fun fact: i love turtles , and well experienced in coding -->
+- 📫 How to reach me: through [Discord Server](https://discord.gg/7WCa6XqzEk) -->
 
 
 [![GitHub](https://img.shields.io/github/followers/EELKGOD?label=follow&style=social)](https://github.com/EELKGOD)
